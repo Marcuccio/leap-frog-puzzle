@@ -1,0 +1,8 @@
+[package]
+name = "leap-frog-puzzle"
+version = "0.1.0"
+authors = ["marco"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
